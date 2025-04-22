@@ -1,14 +1,3 @@
-<!--
- * @Author: Luyuan shenghai314@gmail.com
- * @Date: 2025-04-16 15:31:52
- * @LastEditors: Luyuan shenghai314@gmail.com
- * @LastEditTime: 2025-04-22 14:30:43
- * @FilePath: \DCcharge_CPCd:\Tools\RT-ThreadStudio\workspace\github_profile.md
- * @Description: 
- * 
- * Copyright (c) 2025 by Nanjing GWDR Power Technology Co., Ltd., All Rights Reserved. 
--->
-
 <!-- 顶部动态标题 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Welcome+to+My+GitHub!" alt="动态打字效果标题" />
